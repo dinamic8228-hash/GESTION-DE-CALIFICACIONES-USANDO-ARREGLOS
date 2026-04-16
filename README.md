@@ -7,3 +7,6 @@ procesar información usando estructuras de control y mostrar resultados en pant
 
 ![image alt](https://github.com/dinamic8228-hash/GESTION-DE-CALIFICACIONES-USANDO-ARREGLOS/blob/40159ff25c03b6b745aeaf58abda0a2facb659d4/imagen_2026-04-15_210415318.png)
 
+![image alt](https://github.com/dinamic8228-hash/GESTION-DE-CALIFICACIONES-USANDO-ARREGLOS/blob/ac03d70b13de2aaa3996a75c64d0ddf333480816/imagen_2026-04-15_210443067.png)
+
+![image alt]()
